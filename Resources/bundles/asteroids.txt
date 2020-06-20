@@ -1,0 +1,26 @@
+//IMAGES
+
+BITMAP,ship,ship.png
+BITMAP,shipt,shipt.png
+BITMAP,shipi,shipi.png
+BITMAP,bullet,bullet.png
+BITMAP,blue_spikey,blue_spikey.png
+BITMAP,green_smooth,green_smooth.png
+BITMAP,green_spikey,green_spikey.png
+BITMAP,orange_smooth,orange_smooth.png
+BITMAP,pink_smooth,pink_smooth.png
+BITMAP,purple_smooth,purple_smooth.png
+BITMAP,red_smooth,red_smooth.png
+BITMAP,yellow_spikey,yellow_spikey.png
+BITMAP,yellow_spikey,yellow_spikey.png
+BITMAP,menu, menu.png
+BITMAP,back,back.jpg
+
+// SOUNDS
+SOUND,background,background.mp3
+SOUND,shoot,shoot.mp3
+SOUND,thrust,thrust.mp3
+SOUND,explode,explode.mp3
+
+//FONT
+FONT,atari,ATARCC__.TTF
